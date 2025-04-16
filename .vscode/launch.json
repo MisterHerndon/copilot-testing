@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Run Tetris Game",
+        "program": "${workspaceFolder}/tetris-clone/src/index.js",
+        "console": "integratedTerminal"
+      }
+    ]
+  }
